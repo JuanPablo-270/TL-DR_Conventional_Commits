@@ -179,11 +179,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2239590fb60da544",
+  "active": "23583b71159ff4d5",
   "lastOpenFiles": [
-    "create a link.md",
     "Welcome.md",
     "Git.md",
+    "Commits.md",
+    "create a link.md",
     "Pasted image 20250217121751.png"
   ]
 }
